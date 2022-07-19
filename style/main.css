@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+#navbar{
+    background-color: rgb(148, 147, 147);
+    /* height: 100px; */
+}
+.logo{
+    color: white;
+    float: left;
+    margin-left: 40px;
+    margin-top: 15px;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family:monospace;
+
+}
+.nav{
+    float: right;
+    margin-right: 40px;
+    margin-top: 15px;
+    border: 1px solid black;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: white;
+    margin-bottom: 15px;
+}
+.clear{
+    clear: both;
+}
+.myimg{
+    width: 80%;
+    height: 400px;
+    margin-left:10% ;
+    margin-top: 100px;
+}
+.artical{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.artical h1{
+    font-weight: 100;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.artical p{
+    width:60%;
+    opacity: 0.8;
+}
+.hp{
+    float: left;
+    width: 30%;
+}
+.artical .hp h1{
+    font-size: 15px;
+}
+.artical .hp p{
+    font-size: 10px;
+}
+.hp img{
+    width: 40px;
+    height: 40px;
+}
+.hp1{
+    float: left;
+    width: 30%;
+}
+.artical .hp1 h1{
+    font-size: 15px;
+}
+.artical .hp1 p{
+    font-size: 10px;
+}
